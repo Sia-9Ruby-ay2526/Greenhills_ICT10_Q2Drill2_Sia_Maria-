@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(243, 235, 235);
+    padding-top: 90px;
+}
+
+.container{
+    border: 10px solid rgb(35, 3, 84);
+    background-color: rgb(255, 255, 255);
+    margin: 0px auto;
+    padding: 20px;
+    width: 50%
+}
+
+h1 {
+    color: #604478;
+    font-size: 42px;
+    margin-bottom: 15px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+
+
+
